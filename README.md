@@ -3,7 +3,7 @@ Hi ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 
 Full Stack Developer
 --------------------
-![Game Demo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 *   🖥️  [My Website](http://hrishi.sh/)
 *   ✉️  Email: [hrishishahh@gmail.com](mailto:hrishishahh@gmail.com)
 ### Skills 
