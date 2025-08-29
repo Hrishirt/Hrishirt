@@ -1,6 +1,7 @@
 Hi 👋 My name is Hrishi Shah
 ============================
 * Full Stack Developer
+* ML Dev
 * My website [Website](http://hrishi.sh)
 * Email [hrishishahh@gmail.com](mailto:hrishishahh@gmail.com)
 
