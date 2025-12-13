@@ -1,6 +1,6 @@
 # Hi there, I'm Hrishi Shah 👋
 
-### 🤖 Machine Learning Engineer 
+### Machine Learning Engineer 
 
 I am a Computer Science Masters student at the **Georgia Institute of Technology** with a specialization in AI.
 
@@ -9,7 +9,7 @@ I'm focused on:
 * **Data Engineering:** Building robust pipelines and evaluating systems (LangChain, SQL, Pydantic).
 * **Mathematics:** Applied Linear Algebra and Calculus for ML research.
 
-📫 **Reach out to me at:** [hrishishahh@gmail.com](mailto:hrishishahh@gmail.com)
+**Reach out to me at:** [hrishishahh@gmail.com](mailto:hrishishahh@gmail.com)
 
 ---
 ### Skills
