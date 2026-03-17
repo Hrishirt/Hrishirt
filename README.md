@@ -1,15 +1,24 @@
-# Hi there, I'm Hrishi Shah 👋
+# Hrishi Shah
 
-### Machine Learning Engineer 
+### MS CS @ Georgia Tech (AI) · Builder · Engineer
 
-I am a Computer Science Masters student at the **Georgia Institute of Technology** with a specialization in AI.
+I build AI-powered systems that actually work in production
+and I care about understanding why they work from first principles.
 
-I'm focused on:
-* **Deep Learning:** Understanding LLMs and neural networks from first principles (Micrograd, Transformers).
-* **Data Engineering:** Building robust pipelines and evaluating systems (LangChain, SQL, Pydantic).
-* **Mathematics:** Applied Linear Algebra and Calculus for ML research.
+Currently obsessed with: autonomous agents, RAG pipelines, 
+and the math.
 
-**Reach out to me at:** [hrishishahh@gmail.com](mailto:hrishishahh@gmail.com)
+**Recent:** Built an AI code review agent that caught a real 
+code injection vulnerability on its first production run.
+
+hrishishahh@gmail.com  
+linkedin.com/in/hrishi-shah-17470a24a  
+
+---
+
+**Building:** Pressly — AI-powered newsletter automation  
+**Learning:** ML for Trading (GT), Transformer internals, Applied Linear Algebra  
+**Reading:** Karpathy's lectures, Chip Huyen's AI Engineering
 
 ---
 ### Skills
