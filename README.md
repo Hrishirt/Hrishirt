@@ -12,7 +12,7 @@ and the math.
 code injection vulnerability on its first production run.
 
 hrishishahh@gmail.com  
-[linkedin.com/in/hrishi-shah-17470a24a ](https://www.linkedin.com/in/israfils/) 
+[linkedin.com/in/israfils ](https://www.linkedin.com/in/israfils/) 
 
 ---
 
