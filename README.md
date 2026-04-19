@@ -16,7 +16,6 @@ hrishishahh@gmail.com
 
 ---
 
-**Building:** Pressly — AI-powered newsletter automation  
 **Learning:** ML for Trading (GT), Transformer internals, Applied Linear Algebra  
 **Reading:** Karpathy's lectures, Chip Huyen's AI Engineering
 
