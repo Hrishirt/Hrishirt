@@ -16,8 +16,8 @@ hrishishahh@gmail.com
 
 ---
 
-**Learning:** ML for Trading (GT), Transformer internals, Applied Linear Algebra  
-**Reading:** Karpathy's lectures, Chip Huyen's AI Engineering
+**Learning:** Lotta Math
+**Reading:** Random philosophy book
 
 ---
 ### Skills
