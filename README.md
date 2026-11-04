@@ -16,7 +16,8 @@ hrishishahh@gmail.com
 
 ---
 
-**Learning:** Lotta Math. 
+**Learning:** Lotta Math \
+
 **Reading:** Random philosophy book
 
 ---
